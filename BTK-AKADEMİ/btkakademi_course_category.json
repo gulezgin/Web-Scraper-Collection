@@ -1,0 +1,464 @@
+[
+  {
+    "id": 353,
+    "title": "Yazılım Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/227df8e8-904e-4ad9-9a89-6f63166d3282/yazilim_dunyasi.jpg?t=1691675273794",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/227df8e8-904e-4ad9-9a89-6f63166d3282/yazilim_dunyasi.jpg?t=1691675273794"
+  },
+  {
+    "id": 952,
+    "title": "Blok Zincir",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bdbd3a69-5997-4833-a5df-81e94f7b78fd/blokzincir.jpg?t=1691742074908",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bdbd3a69-5997-4833-a5df-81e94f7b78fd/blokzincir.jpg?t=1691742074908"
+  },
+  {
+    "id": 1053,
+    "title": "İş Zekası ve Raporlama",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/172ef199-55a1-4710-9ef0-65d131d072a3/is_zekasi_ve_raporlama.jpg?t=1691744792210",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/172ef199-55a1-4710-9ef0-65d131d072a3/is_zekasi_ve_raporlama.jpg?t=1691744792210"
+  },
+  {
+    "id": 1001,
+    "title": "Mobil Uygulama",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/700ed92e-513e-4e5f-88b6-452b3ac4026d/mobil_uygulama.jpg?t=1691744792326",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/700ed92e-513e-4e5f-88b6-452b3ac4026d/mobil_uygulama.jpg?t=1691744792326"
+  },
+  {
+    "id": 1050,
+    "title": "Oyun Geliştirme",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/9630a594-a1a0-4f91-8059-55b61b1a59da/oyun_gelistirme.jpg?t=1691744792212",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/9630a594-a1a0-4f91-8059-55b61b1a59da/oyun_gelistirme.jpg?t=1691744792212"
+  },
+  {
+    "id": 951,
+    "title": "Programlama Dilleri",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/a1446c8d-39a8-42bf-b4c5-b7945b08f68e/programlama_dilleri.jpg?t=1691747812868",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/a1446c8d-39a8-42bf-b4c5-b7945b08f68e/programlama_dilleri.jpg?t=1691747812868"
+  },
+  {
+    "id": 1000,
+    "title": "Veri Bilimi",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/a01c2d36-a05a-4483-9a3e-1a4728ffafad/veri_bilimi.jpg?t=1691747812778",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/a01c2d36-a05a-4483-9a3e-1a4728ffafad/veri_bilimi.jpg?t=1691747812778"
+  },
+  {
+    "id": 1051,
+    "title": "Veri Tabanı",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/515fac80-a6bd-4c39-ab35-90cf879db573/veri_tabani.jpg?t=1691747812829",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/515fac80-a6bd-4c39-ab35-90cf879db573/veri_tabani.jpg?t=1691747812829"
+  },
+  {
+    "id": 1052,
+    "title": "Yazılım Testi",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1a9e7835-649d-463a-9ac6-d336d588f379/yazilim_test.jpg?t=1691747812719",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1a9e7835-649d-463a-9ac6-d336d588f379/yazilim_test.jpg?t=1691747812719"
+  },
+  {
+    "id": 950,
+    "title": "Web Geliştirme",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/11667e89-0a64-4be9-a18d-1a4134d03d0d/web_gelistirme.jpg?t=1691747812929",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/11667e89-0a64-4be9-a18d-1a4134d03d0d/web_gelistirme.jpg?t=1691747812929"
+  },
+  {
+    "id": 1350,
+    "title": "DevOps",
+    "parent_category": "Yazılım Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1e7f193d-27b3-4647-aa0a-6ffd75655e8b/devops.jpg?t=1691751412024",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1e7f193d-27b3-4647-aa0a-6ffd75655e8b/devops.jpg?t=1691751412024"
+  },
+  {
+    "id": 1802,
+    "title": "Yapay Zekâ Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/cf00e4e8-3bee-4fe1-9c69-573bb032380c/yapayzekadunyasi.png?t=1703687402556",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/cf00e4e8-3bee-4fe1-9c69-573bb032380c/yapayzekadunyasi.png?t=1703687402556"
+  },
+  {
+    "id": 2352,
+    "title": "Geliştirme",
+    "parent_category": "Yapay Zekâ Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/f4344f28-fa42-4059-a7c6-0a07a0ca7e5f/Gelis%CC%A7tirme.png?t=1758713194323",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/f4344f28-fa42-4059-a7c6-0a07a0ca7e5f/Gelis%CC%A7tirme.png?t=1758713194323"
+  },
+  {
+    "id": 2353,
+    "title": "Üretken Yapay Zekâ",
+    "parent_category": "Yapay Zekâ Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/e88c9d00-4e19-4b43-85d8-604a9d51e620/U%CC%88retken+Yapay+Zeka+Arac%CC%A7lar%C4%B1.png?t=1758713194336",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/e88c9d00-4e19-4b43-85d8-604a9d51e620/U%CC%88retken+Yapay+Zeka+Arac%CC%A7lar%C4%B1.png?t=1758713194336"
+  },
+  {
+    "id": 2354,
+    "title": "Beşeri ve Sosyal",
+    "parent_category": "Yapay Zekâ Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d935c2d4-16be-485b-a7d6-a82ef4783135/Bes%CC%A7eri+ve+Sosyal.png?t=1758713194389",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d935c2d4-16be-485b-a7d6-a82ef4783135/Bes%CC%A7eri+ve+Sosyal.png?t=1758713194389"
+  },
+  {
+    "id": 1002,
+    "title": "Sistem Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/f0020bc8-390a-4387-aeb6-2bb022e89648/sistem_dunyasi.jpg?t=1640344161464",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/f0020bc8-390a-4387-aeb6-2bb022e89648/sistem_dunyasi.jpg?t=1640344161464"
+  },
+  {
+    "id": 1004,
+    "title": "İşletim Sistemleri",
+    "parent_category": "Sistem Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4cfb0006-7d92-4b7a-a3c1-48cae1b20762/isletim_sistemleri.jpg?t=1691742074910",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4cfb0006-7d92-4b7a-a3c1-48cae1b20762/isletim_sistemleri.jpg?t=1691742074910"
+  },
+  {
+    "id": 1003,
+    "title": "Siber Güvenlik",
+    "parent_category": "Sistem Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/5a34e12d-fb61-4e85-a786-1a77e2925e56/siber_guvenlik.jpg?t=1691742074910",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/5a34e12d-fb61-4e85-a786-1a77e2925e56/siber_guvenlik.jpg?t=1691742074910"
+  },
+  {
+    "id": 1007,
+    "title": "Bulut Sistemler",
+    "parent_category": "Sistem Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/acadd221-863e-4154-a17c-afa985d45bbd/bulut_sistemler.jpg?t=1691742074899",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/acadd221-863e-4154-a17c-afa985d45bbd/bulut_sistemler.jpg?t=1691742074899"
+  },
+  {
+    "id": 953,
+    "title": "İşletme Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/5b3c2a41-2457-41df-a17e-f2fdaf6a816a/isletme_dunyasi.jpg?t=1691676831875",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/5b3c2a41-2457-41df-a17e-f2fdaf6a816a/isletme_dunyasi.jpg?t=1691676831875"
+  },
+  {
+    "id": 1852,
+    "title": "Girişimcilik",
+    "parent_category": "İşletme Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bf0c71d8-2e60-48a0-91f9-aee02efa0a8b/giri%C5%9Fimcilik.png?t=1705667553539",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bf0c71d8-2e60-48a0-91f9-aee02efa0a8b/giri%C5%9Fimcilik.png?t=1705667553539"
+  },
+  {
+    "id": 1803,
+    "title": "Pazarlama",
+    "parent_category": "İşletme Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fe805b65-c45b-460b-931c-0e3fd5119d85/pazarlama.png?t=1705667553531",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fe805b65-c45b-460b-931c-0e3fd5119d85/pazarlama.png?t=1705667553531"
+  },
+  {
+    "id": 1804,
+    "title": "Proje Yönetimi",
+    "parent_category": "İşletme Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/e3a8b7b3-4fb0-4404-bbb5-7404c184c0e5/projey%C3%B6netimi.png?t=1705667553538",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/e3a8b7b3-4fb0-4404-bbb5-7404c184c0e5/projey%C3%B6netimi.png?t=1705667553538"
+  },
+  {
+    "id": 1805,
+    "title": "Ofis Programları",
+    "parent_category": "İşletme Dünyası",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4b6ed3e7-4101-41d7-acf2-2fa2c6b049db/msoffice.png?t=1705667553535",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4b6ed3e7-4101-41d7-acf2-2fa2c6b049db/msoffice.png?t=1705667553535"
+  },
+  {
+    "id": 55,
+    "title": "Kişisel Gelişim Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/b86cc61e-e0c2-4488-8997-723a654b93e0/kisisel_gelisim.jpg?t=1640344161467",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/b86cc61e-e0c2-4488-8997-723a654b93e0/kisisel_gelisim.jpg?t=1640344161467"
+  },
+  {
+    "id": 1400,
+    "title": "Tasarım Dünyası ",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/06cca5e9-242e-434e-8245-32d5e600014a/tasarim_dunyasi_%C3%87al%C4%B1%C5%9Fma+Y%C3%BCzeyi+1.jpg?t=1691669742285",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/06cca5e9-242e-434e-8245-32d5e600014a/tasarim_dunyasi_%C3%87al%C4%B1%C5%9Fma+Y%C3%BCzeyi+1.jpg?t=1691669742285"
+  },
+  {
+    "id": 1006,
+    "title": "K12 Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/17193c49-1887-4d6d-bab1-356f5910f8f4/k12.jpg?t=1691676457947",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/17193c49-1887-4d6d-bab1-356f5910f8f4/k12.jpg?t=1691676457947"
+  },
+  {
+    "id": 954,
+    "title": "Kariyer Yolu",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fe3bf909-1e2f-412e-8ad3-cf7761097917/kariyer_yolu.jpg?t=1691668061032",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fe3bf909-1e2f-412e-8ad3-cf7761097917/kariyer_yolu.jpg?t=1691668061032"
+  },
+  {
+    "id": 955,
+    "title": "Bilgi Teknolojileri Giriş Programı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/2ce8c714-1538-445a-bacc-08e4aa40f9d7/bilgi_teknolojiler_giris.jpg?t=1692627096709",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/2ce8c714-1538-445a-bacc-08e4aa40f9d7/bilgi_teknolojiler_giris.jpg?t=1692627096709"
+  },
+  {
+    "id": 956,
+    "title": "Yazılım Geliştirici",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/70709103-7c89-4451-a976-eb8b3ac68e94/yazilimgelistirici.jpg?t=1692620932470",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/70709103-7c89-4451-a976-eb8b3ac68e94/yazilimgelistirici.jpg?t=1692620932470"
+  },
+  {
+    "id": 958,
+    "title": "Web Geliştirici - Back-End",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/414535f2-a86b-406c-a110-3ee8be83c424/web_back.jpg?t=1692627096546",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/414535f2-a86b-406c-a110-3ee8be83c424/web_back.jpg?t=1692627096546"
+  },
+  {
+    "id": 959,
+    "title": "Web Geliştirici - Front End",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fdf142e1-626e-4d24-b246-fb1c4eaeea86/web_front.jpg?t=1692627096634",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fdf142e1-626e-4d24-b246-fb1c4eaeea86/web_front.jpg?t=1692627096634"
+  },
+  {
+    "id": 957,
+    "title": "Mobil Uygulama Geliştirici",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/5fc94584-8a32-4aa5-9514-80e2d36a7317/mobil_uygulama_gelistirici.jpg?t=1692627096676",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/5fc94584-8a32-4aa5-9514-80e2d36a7317/mobil_uygulama_gelistirici.jpg?t=1692627096676"
+  },
+  {
+    "id": 960,
+    "title": "Oyun Geliştirici",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/a0c3a37b-75f4-461a-8c27-2a81dae7e5f2/oyun_gelistirici.jpg?t=1692627096584",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/a0c3a37b-75f4-461a-8c27-2a81dae7e5f2/oyun_gelistirici.jpg?t=1692627096584"
+  },
+  {
+    "id": 966,
+    "title": "Veri Analisti",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/f3939771-e278-4ed6-b26b-73cc15223b6e/veri_analisti.jpg?t=1692621915885",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/f3939771-e278-4ed6-b26b-73cc15223b6e/veri_analisti.jpg?t=1692621915885"
+  },
+  {
+    "id": 967,
+    "title": "İş Zekası Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3efc7bd7-47a9-4b3b-992c-7530b88c0a52/is_zekasi_uzmani.jpg?t=1692628562193",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3efc7bd7-47a9-4b3b-992c-7530b88c0a52/is_zekasi_uzmani.jpg?t=1692628562193"
+  },
+  {
+    "id": 968,
+    "title": "Veri Bilimci",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/18982b69-4f4b-455d-b295-298308139bfe/veri_bilimci.jpg?t=1692628562158",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/18982b69-4f4b-455d-b295-298308139bfe/veri_bilimci.jpg?t=1692628562158"
+  },
+  {
+    "id": 969,
+    "title": "Makine Öğrenmesi Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3d8a977d-f896-4fac-a04d-ccb4252b5648/makine_ogrenmesi_uzmani.jpg?t=1692690457934",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3d8a977d-f896-4fac-a04d-ccb4252b5648/makine_ogrenmesi_uzmani.jpg?t=1692690457934"
+  },
+  {
+    "id": 961,
+    "title": "Veritabanı Yöneticisi",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/53ae9433-96e9-4888-bfca-42ade71c3b16/veritabani_yoneticisi.jpg?t=1692690458144",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/53ae9433-96e9-4888-bfca-42ade71c3b16/veritabani_yoneticisi.jpg?t=1692690458144"
+  },
+  {
+    "id": 962,
+    "title": "Büyük Veri Yönetim Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/6ecd86a1-896c-4787-acfc-9f5feadd7a3a/buyuk_veri_yonetim_uzmani.jpg?t=1692690458017",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/6ecd86a1-896c-4787-acfc-9f5feadd7a3a/buyuk_veri_yonetim_uzmani.jpg?t=1692690458017"
+  },
+  {
+    "id": 963,
+    "title": "Network Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d8a840fc-63dc-4883-aaa4-f0e120e9a463/network_uzmani.jpg?t=1692690458075",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d8a840fc-63dc-4883-aaa4-f0e120e9a463/network_uzmani.jpg?t=1692690458075"
+  },
+  {
+    "id": 964,
+    "title": "Sistem Yöneticisi",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/67f75df5-ab90-4fb2-8eaf-7ee08a946817/sistem_yoneticisi.jpg?t=1692690458257",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/67f75df5-ab90-4fb2-8eaf-7ee08a946817/sistem_yoneticisi.jpg?t=1692690458257"
+  },
+  {
+    "id": 965,
+    "title": "Veri Merkezi Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d324afe0-75cb-422e-b865-ddc5a10b3812/veri_merkezi_uzmani.jpg?t=1692628795865",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d324afe0-75cb-422e-b865-ddc5a10b3812/veri_merkezi_uzmani.jpg?t=1692628795865"
+  },
+  {
+    "id": 970,
+    "title": "Sızma Testi Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4525be5f-9ae1-465f-bcf6-7774a21da50c/sizma_testi_uzmani.jpg?t=1692692151548",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4525be5f-9ae1-465f-bcf6-7774a21da50c/sizma_testi_uzmani.jpg?t=1692692151548"
+  },
+  {
+    "id": 971,
+    "title": "Siber Güvenlik Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/436b0ed7-e7b5-43a1-a8ed-780f1e6510ed/siber_guvenlik_uzmani.jpg?t=1692692151617",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/436b0ed7-e7b5-43a1-a8ed-780f1e6510ed/siber_guvenlik_uzmani.jpg?t=1692692151617"
+  },
+  {
+    "id": 972,
+    "title": "Adli Bilişim Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/6dfe9857-1e59-400b-a71a-5e2979e6d0ec/adli_bilisim_uzmani.jpg?t=1692693311337",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/6dfe9857-1e59-400b-a71a-5e2979e6d0ec/adli_bilisim_uzmani.jpg?t=1692693311337"
+  },
+  {
+    "id": 973,
+    "title": "Zararlı Yazılım Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/779eda4d-66a9-4bf2-94f3-1a072ffbd2a0/zararli_yazilim_uzmani.jpg?t=1692693311214",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/779eda4d-66a9-4bf2-94f3-1a072ffbd2a0/zararli_yazilim_uzmani.jpg?t=1692693311214"
+  },
+  {
+    "id": 977,
+    "title": "İş Analisti",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/0844101b-8ce2-4249-99c9-4f49405a2d39/is_analisti.jpg?t=1692693311417",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/0844101b-8ce2-4249-99c9-4f49405a2d39/is_analisti.jpg?t=1692693311417"
+  },
+  {
+    "id": 975,
+    "title": "Yazılım Test Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3b5561dc-5aa2-4ea3-b269-d8c2e4636f90/yazilim_test.jpg?t=1692693311261",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3b5561dc-5aa2-4ea3-b269-d8c2e4636f90/yazilim_test.jpg?t=1692693311261"
+  },
+  {
+    "id": 976,
+    "title": "DevOps Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1e7f193d-27b3-4647-aa0a-6ffd75655e8b/devops.jpg?t=1691751412024",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1e7f193d-27b3-4647-aa0a-6ffd75655e8b/devops.jpg?t=1691751412024"
+  },
+  {
+    "id": 978,
+    "title": "Proje Yöneticisi",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/47128384-8562-4c2b-8734-0e3d56bc9c00/proje_yoneticisi.jpg?t=1692694906996",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/47128384-8562-4c2b-8734-0e3d56bc9c00/proje_yoneticisi.jpg?t=1692694906996"
+  },
+  {
+    "id": 974,
+    "title": "Bilgi Güvenliği Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/c76fc624-2c92-4954-b263-763ad752d6ff/bilgi_guvenligi_uzmani.jpg?t=1692694907179",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/c76fc624-2c92-4954-b263-763ad752d6ff/bilgi_guvenligi_uzmani.jpg?t=1692694907179"
+  },
+  {
+    "id": 1552,
+    "title": "RPA Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fa267fc9-acc8-49ac-b498-c7c5eb9b0480/rpa_uzmani.jpg?t=1692694907114",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/fa267fc9-acc8-49ac-b498-c7c5eb9b0480/rpa_uzmani.jpg?t=1692694907114"
+  },
+  {
+    "id": 1602,
+    "title": "Blokzincir Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bdbd3a69-5997-4833-a5df-81e94f7b78fd/blokzincir.jpg?t=1691742074908",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bdbd3a69-5997-4833-a5df-81e94f7b78fd/blokzincir.jpg?t=1691742074908"
+  },
+  {
+    "id": 1603,
+    "title": "CBS Yazılım Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/766a5d1a-cbc5-4561-b056-c9f77c10b556/cbs.jpg?t=1692703303457",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/766a5d1a-cbc5-4561-b056-c9f77c10b556/cbs.jpg?t=1692703303457"
+  },
+  {
+    "id": 1604,
+    "title": "Gömülü Sistemler Uzmanı",
+    "parent_category": "Kariyer Yolu",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/c57a0125-4432-4a53-bf35-8a46f9bb2462/gomulu_sistemler.jpg?t=1692703303398",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/c57a0125-4432-4a53-bf35-8a46f9bb2462/gomulu_sistemler.jpg?t=1692703303398"
+  },
+  {
+    "id": 450,
+    "title": "Güvenli İnternet",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/851d2f27-37fc-4866-aba1-8645c0d26973/guvenli_internet.jpg?t=1691667427500",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/851d2f27-37fc-4866-aba1-8645c0d26973/guvenli_internet.jpg?t=1691667427500"
+  },
+  {
+    "id": 50,
+    "title": "Regülasyon Dünyası",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3a9caf84-59a9-4cec-8aa7-99c1109eb39c/regulasyon.jpg?t=1691667852004",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3a9caf84-59a9-4cec-8aa7-99c1109eb39c/regulasyon.jpg?t=1691667852004"
+  },
+  {
+    "id": 2052,
+    "title": "Temel Bilimler",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/985a53f9-eca6-4519-9d51-aa263d7d3f25/temelbilim-192x180.png?t=1728554678149",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/985a53f9-eca6-4519-9d51-aa263d7d3f25/temelbilim-192x180.png?t=1728554678149"
+  },
+  {
+    "id": 2053,
+    "title": "Matematik",
+    "parent_category": "Temel Bilimler",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d3bb119a-bcc5-4826-8c70-d2a04e01e1e1/mat%403x.png?t=1727428051076",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/d3bb119a-bcc5-4826-8c70-d2a04e01e1e1/mat%403x.png?t=1727428051076"
+  },
+  {
+    "id": 2502,
+    "title": "Sosyal Bilimler",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bbab0af0-2773-4b76-95c9-af74e69fe8ee/sosyalbilimler.png?t=1765547851899",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/bbab0af0-2773-4b76-95c9-af74e69fe8ee/sosyalbilimler.png?t=1765547851899"
+  },
+  {
+    "id": 1952,
+    "title": "Kurum ve Kuruluşlar",
+    "parent_category": null,
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1e164676-c1c4-4e42-b0d8-c3c7bc791e5d/Kurum_ve_Kurulus.png?t=1722954339617",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/1e164676-c1c4-4e42-b0d8-c3c7bc791e5d/Kurum_ve_Kurulus.png?t=1722954339617"
+  },
+  {
+    "id": 1953,
+    "title": "Türk Patent ve Marka Kurumu",
+    "parent_category": "Kurum ve Kuruluşlar",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4f8ef075-a52d-49ce-b265-9d4dae8e8d3c/turk-patent%403x.png?t=1727427131338",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/4f8ef075-a52d-49ce-b265-9d4dae8e8d3c/turk-patent%403x.png?t=1727427131338"
+  },
+  {
+    "id": 2002,
+    "title": "Karayolları Genel Müdürlüğü",
+    "parent_category": "Kurum ve Kuruluşlar",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/c46d5a6f-d63f-49d8-b4e4-0c5127c3e5ec/kgm%403x.png?t=1727426757135",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/c46d5a6f-d63f-49d8-b4e4-0c5127c3e5ec/kgm%403x.png?t=1727426757135"
+  },
+  {
+    "id": 2452,
+    "title": "MEB YEĞİTEK",
+    "parent_category": "Kurum ve Kuruluşlar",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/759b1771-30cb-478d-b867-451617c7c70d/meb.png?t=1761640776929",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/759b1771-30cb-478d-b867-451617c7c70d/meb.png?t=1761640776929"
+  },
+  {
+    "id": 2652,
+    "title": "ASBÜ",
+    "parent_category": "Kurum ve Kuruluşlar",
+    "image_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3f2eeeb4-28b9-4d1e-a368-9d2aeda8d6b0/ASBU_Logo.png?t=1770280169504",
+    "thumbnail_url": "https://assets-btkakademi-gov-tr.akamaized.net/api/gallery/51/3f2eeeb4-28b9-4d1e-a368-9d2aeda8d6b0/ASBU_Logo.png?t=1770280169504"
+  }
+]
